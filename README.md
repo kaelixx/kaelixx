@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @kaelixx
-- 👀 I’m interested in eating
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m John
+- 👀 I’m interested in eating nuggets
+- 🌱 I’m currently learning Web Programming, Mobile Application, Database Management.
+- 📫 How to reach me ... @jmsitchon.student.apc.edu.ph
+- 😄 Pronouns: trans/former
+- ⚡ Fun fact: Naniniwala ako sa kasabihan na "Pag naging bigas ang palay, May bumayo"
 
-<!---
-kaelixx/kaelixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
